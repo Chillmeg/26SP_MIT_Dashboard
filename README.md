@@ -2,7 +2,7 @@
 
 ## Quick links
 
-Notion dashboard: [26 Spring](https://www.notion.so/2026-Spring-2fb575007a8c806b8a90ced758efde92?source=copy_link)
+Notion dashboard: [26 Spring](https://www.notion.so/2026-Spring-2fb575007a8c806b8a90ced758efde92?source=copy_link)  
 Semester GitHub Project:
 
 ## How to use this repo

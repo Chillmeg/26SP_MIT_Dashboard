@@ -1,0 +1,62 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Environments
+.venv/
+venv/
+env/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.key
+*.pem
+*.p12
+*.crt
+
+# Logs and caches
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# ML and data outputs (common)
+data/
+datasets/
+runs/
+outputs/
+checkpoints/
+weights/
+wandb/
+logs/
+
+# Web later (Node tooling)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+
+# Editor
+.vscode/
+.idea/
